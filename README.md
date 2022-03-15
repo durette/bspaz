@@ -9,3 +9,5 @@ Usage:
 Drop PHP file on server. Make sure HTTP daemon can write to the folder. Open file from browser.
 
 Currently, the URL is stored in a text file on the server.
+
+I originally wrote this in 2014 and migrated it from Sourceforge to Github as-is.
